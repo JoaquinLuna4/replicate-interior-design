@@ -1,0 +1,14 @@
+{
+  "node": {
+    "53aff7307a23a16f8c990759b6ba47d9316a0362": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/.pnpm/next@14.0.4_@babel+core@7.22.19_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cusers%5C%5Cusuario%5C%5CJOACO%5C%5CPrograming%5C%5Cgoncy-streams%5C%5Creplicate-interior-design%5C%5Csrc%5C%5Cactions.ts%22%2C%5B%22createPrediction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "bZa5Q7ukHOde0Rb6wwRFdNQrNq6+K6ZVyI9JKY181yI="
+}
